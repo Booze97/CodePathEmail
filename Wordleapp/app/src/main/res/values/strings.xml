@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Wordle app</string>
+    <string name="enter_word">Enter a 4-letter Word</string>
+    <string name="reset_button">Reset</string>
+    <string name="submit_button">Submit</string>
+    <string name="word_enter">Enter 4 letter Word</string>
+</resources>
