@@ -1,17 +1,17 @@
 
-# Android - Wishlist
+# Android - CodePathEmail
 
 Submitted by: **Ahmere Booze**
 
-*Wishlist** is an android app that allows users to keep track of items they want to buy by entering itemname,price and url
+*CodePathEmail** is an android app that list of emails using recycler Review
 
-Time spent: 4 hours spent in total
+Time spent: 3 hours spent in total
 
 ## Required Features
 
 The following **required** functionality is completed:
 
-* Add Item
-* Scrollable List
-* Blue Theme
-* Top Header Bar
+* Created email_item.xml layout for each email row
+* Loaded initial list of emails using EmailFetcher
+* Displayed emails with sender, title, and summary
+* Added “Load More” button to append additional emails
